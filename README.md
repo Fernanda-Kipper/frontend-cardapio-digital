@@ -1,6 +1,6 @@
 # Cardápio Digital - Aplicação Frontend
 
-Este projeto é um simples simples protótipo de um Cardápio Digital desenvolvido durante o meu [vídeo no YouTube](https://www.youtube.com/@kipperdev). A aplicação foi desenvolvida usando **React, Typescript e React Query**.
+Este projeto é um simples simples protótipo de um Cardápio Digital desenvolvido durante meu [tutorial no YouTube](https://www.youtube.com/@kipperdev). A aplicação foi desenvolvida usando **React, Typescript e React Query**.
 
 <img src="./public/home.png"/>
 <img src="./public/modal.png"/>
@@ -58,4 +58,5 @@ YouTube [@kipperdev](https://www.youtube.com/@kipperdev) &nbsp;&middot;&nbsp;
 
 
 ## 📝 Licença
+
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para obter mais informações.
